@@ -2,7 +2,7 @@
 
 <h1 align="center">Imaging and Computational Neuroscience Lab </h1>
 <p align="center">
-<img height="700" src="https://github.com/icnlabinfo/lab-website/blob/main/images/Imaging%20and%20Computational%20Neuroscience%20Lab%20(2).png?raw=true" alt="Lab Website Logo">
+<img height="450" src="https://github.com/icnlabinfo/lab-website/blob/main/images/Imaging%20and%20Computational%20Neuroscience%20Lab%20(2).png?raw=true" alt="Lab Website Logo">
 </p>
 
 Lab Website Template (LWT) is an easy-to-use, flexible website template for labs.
