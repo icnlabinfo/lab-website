@@ -12,7 +12,7 @@ Spend less time worrying about managing a website and citations, and more time r
 
 [**Team Members**](team/index.md)
 
-## Key Features
+## Lab Description
 
 - 🤖 Based on Git, GitHub, and Jekyll.
 - 📜 Automatically generated citations from simple identifiers (DOI, PubMed, ORCID, and many more) using Manubot. E.g. `doi:1234/5678` -> `title`, `authors`, `publisher`, `date`, etc.
