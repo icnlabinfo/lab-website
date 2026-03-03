@@ -6,30 +6,29 @@ nav:
 ---
 
 # Meet Our Team
+---
+Lab Proffessor
+---
 
-<p align="center"> Lab Proffessor (center this, increase font size)
-
-  #
-  
 **Dr. Ayan Sengupta**
 
 {% include portrait.html %}
 
 {short description *lab proffessor}
-#
 
-**PhD Student** (center this, increase font size)
-#
+---
+**PhD Student**
+---
 
 **Md Jubayer Hossain**
 
 {% include portrait.html %}
 
 {short description *PhD student}
-#
 
-**Research Assistants** (center this, increase font size)
-#
+---
+**Research Assistants**
+---
 
 **Stephanie Micheals**
 
