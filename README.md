@@ -10,7 +10,7 @@ Spend less time worrying about managing a website and citations, and more time r
 
 👇👇 **Get Started** 👇👇
 
-[**Team Members**](https://greene-lab.gitbook.io/lab-website-template-docs)
+[**Team Members**](team/index.md)
 
 ## Key Features
 
