@@ -7,8 +7,10 @@ nav:
 
 # Meet Our Team
 
-**Lab Proffessor** (center this, increase font size)
-#
+<p align="center"> Lab Proffessor (center this, increase font size)
+
+  #
+  
 **Dr. Ayan Sengupta**
 
 {% include portrait.html %}
