@@ -5,31 +5,44 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# Meet Our Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**Lab Proffessor** (center this, increase font size)
+#
+**Dr. Ayan Sengupta**
 
-{% include section.html %}
+{% include portrait.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{short description *lab proffessor}
+#
 
-{% include section.html background="images/background.jpg" dark=true %}
+**PhD Student** (center this, increase font size)
+#
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**Md Jubayer Hossain**
 
-{% include section.html %}
+{% include portrait.html %}
 
-{% capture content %}
+{short description *PhD student}
+#
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+**Research Assistants** (center this, increase font size)
+#
 
-{% endcapture %}
+**Stephanie Micheals**
 
-{% include grid.html style="square" content=content %}
+{% include portrait.html %}
+
+{% short description *research assistant %}
+
+**Charmain Xu**
+
+{% include portrait.html %}
+
+{% short description *research assistant %}
+
+**Sara Lopez**
+
+{% include portrait.html %}
+
+{% short description *research assistant %}
