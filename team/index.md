@@ -32,7 +32,10 @@ Lab Proffessor
 
 **Stephanie Micheals**
 
-[![image alt](https://github.com/icnlabinfo/lab-website/blob/86276389bd123a6918d28c2e2cb200efa026ca9d/images/IMG_5462.jpg)](https://github.com/smmichaels/Smmichaels-profile-ICNLab.git)
+<a href="https://github.com/smmichaels/Smmichaels-profile-ICNLab.git">
+  <img src="https://github.com/icnlabinfo/lab-website/blob/86276389bd123a6918d28c2e2cb200efa026ca9d/images/IMG_5462.jpg?raw=true" width="300">
+</a>
+
 
 {% short description *research assistant %}
 
