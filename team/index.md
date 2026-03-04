@@ -32,7 +32,7 @@ Lab Proffessor
 
 **Stephanie Micheals**
 
-{% include portrait.html %}
+{!https://github.com/icnlabinfo/lab-website/blob/86276389bd123a6918d28c2e2cb200efa026ca9d/images/IMG_5462.jpg}
 
 {% short description *research assistant %}
 
