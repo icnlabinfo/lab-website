@@ -8,11 +8,11 @@
 Lab Website Template (LWT) is an easy-to-use, flexible website template for labs.
 Spend less time worrying about managing a website and citations, and more time running your lab.
 
-👇👇 **Get Started** 👇👇
-
 [**Team Members**](team/index.md)
 
 ## Lab Description
+<p align="center">
+<img height="1000" src="images/Screenshot from 2026-03-04 13-03-36.png">
 
 - 🤖 Based on Git, GitHub, and Jekyll.
 - 📜 Automatically generated citations from simple identifiers (DOI, PubMed, ORCID, and many more) using Manubot. E.g. `doi:1234/5678` -> `title`, `authors`, `publisher`, `date`, etc.
